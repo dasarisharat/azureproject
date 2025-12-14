@@ -1,0 +1,9 @@
+{
+	"name": "adfspotifyazureaccc",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "53869cc3-b771-42c4-b166-f5c9dc50605d",
+		"tenantId": "ca3f0b32-b2ce-4ce5-a7a9-bc1746646d99"
+	}
+}
