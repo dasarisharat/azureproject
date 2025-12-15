@@ -1,0 +1,9 @@
+{
+	"name": "adfspotifyazureacc",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f5b7a347-2d71-4c63-b7e5-0fd9d2e19788",
+		"tenantId": "ca3f0b32-b2ce-4ce5-a7a9-bc1746646d99"
+	}
+}
